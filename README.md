@@ -1,4 +1,2 @@
-Dragon Repeller - Role Playing Game by FreeCodeCamp
+Dragon Repeller - Role Playing Game
 
-#Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
